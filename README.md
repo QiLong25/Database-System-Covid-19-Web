@@ -1,6 +1,8 @@
 # Database-System-Covid-19-Web
 Database System-UIUC-CS course team project
 
+![image](https://github.com/QiLong25/Database-System-Covid-19-Web/assets/143149589/31c67add-f67e-4207-ae57-fef39b6d5bbd)
+
 ## Team Members
 Qi Long (Team Leader)
 Bingjun Guo, Jiayu Zhou, Haotian Zhang
