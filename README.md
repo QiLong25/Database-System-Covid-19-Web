@@ -6,12 +6,12 @@ Qi Long (Team Leader)
 Bingjun Guo, Jiayu Zhou, Haotian Zhang
 
 ### Work Undertaken
- *Conceptual Database Design: ER diagram, normalization.
- *Advanced Functional Query Design.
- *Query Optimization Analysis: Index.
- *GCP Implementation: Connection between App and Database.
- *User Dataset Management: CRUD.
- *Front-end (HTML5), back-end (JavaScript, Python-Flask) Web design.
+ * Conceptual Database Design: ER diagram, normalization.
+ * Advanced Functional Query Design.
+ * Query Optimization Analysis: Index.
+ * GCP Implementation: Connection between App and Database.
+ * User Dataset Management: CRUD.
+ * Front-end (HTML5), back-end (JavaScript, Python-Flask) Web design.
 
 ## Course Content
 
