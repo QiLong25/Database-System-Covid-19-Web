@@ -6,7 +6,7 @@ Database System-UIUC-CS course team project
 ## Team Members
 **Qi Long (Team Leader)**, Bingjun Guo, Jiayu Zhou, Haotian Zhang
 
-## Work Undertaken
+## My Contribution
  *  **Conceptual Database** Design: ER diagram, normalization.
   
  *  **Advanced Functional Query** Design.
