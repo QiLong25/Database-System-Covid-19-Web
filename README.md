@@ -54,4 +54,4 @@ Bingjun Guo, Jiayu Zhou, Haotian Zhang
 ## Project Description
 This application provides real-time maps based on the AWS COVID-19 data lake, data uploaded by users, and further the COVID-19 infection database provided by the hospital (if accessible) to help users assess the infection risk according to their current circumstances and assist users find rescue resources immediately they need them.
 
-
+The specific functionalities include ranking the risk of COVID-19 in different states and counties in USA, searching change in cases in the last two weeks, update and get individual advice from user database and hospital recommendation engine based on distance or available resources priority.
